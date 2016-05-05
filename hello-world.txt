@@ -1,2 +1,3 @@
 Hello, world!
 This is demo of how to create git repository.
+New line is added here.
